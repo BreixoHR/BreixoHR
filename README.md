@@ -29,6 +29,7 @@ Desde 2025 he cerrado **más de 130 proyectos** internos, de incidencias de un d
 | ⚙️ | [**tourism-automation-scripts**](https://github.com/BreixoHR/tourism-automation-scripts) | PowerShell · Pester | Datos de Google Places para Things To Do, locuciones de audioguías con TTS y reinicio ordenado de servicios. |
 | 🎟️ | [**musement-wordpress-integration**](https://github.com/BreixoHR/musement-wordpress-integration) | WordPress · PHP · Stripe | Integración de Musement en WordPress: tours, disponibilidad, checkout con Stripe y sincronización con Musement y Salesforce. 28 versiones con sus fechas reales. |
 | 🗂️ | [**obras-sistemas**](https://github.com/BreixoHR/obras-sistemas) | Salesforce · Node | Código original (sin retocar) de 10 desarrollos internos 2025–2026: lectores de PDF, comparativa de reservas entre plataformas, gestión de colas, DispoWeb… |
+| 🏭 | [**technexuslabs**](https://github.com/BreixoHR/technexuslabs) | Next.js · React · SQLite | Web corporativa de Tech Nex (IoT industrial, trazabilidad, i18n es/en/fr) y su backoffice: proyectos e hitos, pagos, finanzas con IVA/IRPF, compras, CRM, credenciales por permisos y formación online integrada con el SEPE. |
 
 Todos los proyectos tienen tests automatizados y CI, y su README explica el problema real, las decisiones de diseño y **qué fallaba en la versión anterior y cómo se corrigió**.
 
