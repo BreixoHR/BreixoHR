@@ -25,8 +25,9 @@ Desde 2025 he cerrado **más de 130 proyectos** internos, de incidencias de un d
 | 🛡️ | [**booking-captcha-gate**](https://github.com/BreixoHR/booking-captcha-gate) | WordPress · PHP | Frena las reservas falsas hechas por bots: el widget de reservas solo se entrega tras verificar reCAPTCHA en el servidor. |
 | 🧾 | [**salesforce-reav-invoicing**](https://github.com/BreixoHR/salesforce-reav-invoicing) | Apex · Holded API | Facturación en régimen especial de agencias de viajes (IVA solo sobre el margen), con rectificativas y varias empresas emisoras. Corrige bugs de la versión en producción: rectificativas con totales positivos y categorías sobrescritas. |
 | 🐍 | [**booking-catalog-export**](https://github.com/BreixoHR/booking-catalog-export) | Python (stdlib) | Catálogo y tarifas de Regiondo (HMAC) y TuriTop (OAuth) exportados a JSON, CSV y Things To Do, con clasificación multilingüe de tipos de cliente. |
-| 🏗️ | [**systems-case-studies**](https://github.com/BreixoHR/systems-case-studies) | Infra · Node | 8 casos reales: contingencia en OCI, auditoría de rendimiento, migración SEO, QA de integraciones, red, sala de servidores, Google Tag Gateway y archivado. Incluye 2 herramientas testeadas. |
+| 🏗️ | [**systems-case-studies**](https://github.com/BreixoHR/systems-case-studies) | Infra · Node | 11 casos reales: contingencia en OCI, auditoría de rendimiento, migración SEO, QA de integraciones, red, sala de servidores, Google Tag Gateway y archivado. Incluye 2 herramientas testeadas. |
 | ⚙️ | [**tourism-automation-scripts**](https://github.com/BreixoHR/tourism-automation-scripts) | PowerShell · Pester | Datos de Google Places para Things To Do, locuciones de audioguías con TTS y reinicio ordenado de servicios. |
+| 🗂️ | [**obras-sistemas**](https://github.com/BreixoHR/obras-sistemas) | Salesforce · Node | Código original (sin retocar) de 10 desarrollos internos 2025–2026: lectores de PDF, comparativa de reservas entre plataformas, gestión de colas, DispoWeb… |
 
 Todos los proyectos tienen tests automatizados y CI, y su README explica el problema real, las decisiones de diseño y **qué fallaba en la versión anterior y cómo se corrigió**.
 
